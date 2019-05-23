@@ -29,3 +29,6 @@ Ubuntu 12+
 
 ### VPS信息汇总
 [VPS GO](https://www.vpsgo.com)
+
+### 交流（备注ss-fly否则不通过）
+[![VCRQv4.th.jpg](https://s2.ax1x.com/2019/05/23/VCRQv4.th.jpg)](https://imgchr.com/i/VCRQv4)
