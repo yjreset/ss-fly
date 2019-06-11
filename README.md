@@ -45,4 +45,4 @@ Ubuntu 12+
 
 如果喜欢的话可以帮忙点个 `star` 感谢支持 
 
- [![V6FiNT.th.jpg](https://s2.ax1x.com/2019/06/10/V6FiNT.th.jpg)](https://imgchr.com/i/V6FiNT)
+ ![V6FiNT.jpg](https://s2.ax1x.com/2019/06/10/V6FiNT.jpg)
