@@ -18,6 +18,9 @@ Ubuntu 12+
 ## 使用教程
 
 一键搭建ss/ssr：[一键脚本搭建shadowsocks+开启bbr](https://suniceman.com/2019/04/10/install-shadowsocks-in-one-command/)
+ 1. git clone https://github.com/suniceman/ss-fly
+ 2. ss-fly/ss-fly.sh -i 123456 1024
+ > 123456为密码 1024为要开启的ss端口
 
 ## 推荐的VPS
 
@@ -36,10 +39,6 @@ Ubuntu 12+
 ### VPS信息汇总
 
 [VPS GO](https://www.vpsgo.com)
-
-### 交流、客户端下载、加入交流讨论群（备注ss-fly否则不通过） 
- [![VCRQv4.th.jpg](https://s2.ax1x.com/2019/05/23/VCRQv4.th.jpg)](https://imgchr.com/i/VCRQv4)
-
 
 ### 感谢支持
 
